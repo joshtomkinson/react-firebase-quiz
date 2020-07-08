@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <motion.h1 animate={{ fontSize: 80, color: "#ff2994", rotateZ: 720 }}>
-        <span>L</span>evel <span>U</span>p <span>Q</span>uiz
+        <span>S</span>tay <span>H</span>ome <span>Q</span>uiz
       </motion.h1>
       <h3 animate={{ fontSize: 40, color: "#fff" }}>
         Presented by{" "}
